@@ -10,6 +10,6 @@ theme = "beautifulhugo"
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   name = "EspLab"
-  website = "https://chadi-mangle.github.io/Portfolio/"
+  #website = "https://chadi-mangle.github.io/Portfolio/"
   email = "espbal@protonmail.com"
   github = "ESPLaboratory"
