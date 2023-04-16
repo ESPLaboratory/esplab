@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://master.d1ik9sebbme72k.amplifyapp.com/'
 languageCode = 'fr-fr'
 title = 'ESPLaboratory'
 theme = "beautifulhugo"
