@@ -1,4 +1,4 @@
-baseURL = 'https://master.d1ik9sebbme72k.amplifyapp.com/'
+baseURL = 'https://esplaboratory.gitlab.io/esplab/'
 languageCode = 'fr-fr'
 title = 'ESPLaboratory'
 theme = "beautifulhugo"
@@ -11,5 +11,5 @@ theme = "beautifulhugo"
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   name = "EspLab"
   #website = "https://chadi-mangle.github.io/Portfolio/"
-  email = "espbal@protonmail.com"
+  email = "esplaboratory@protonmail.com"
   github = "ESPLaboratory"
